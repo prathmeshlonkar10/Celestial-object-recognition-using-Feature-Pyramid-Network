@@ -1,0 +1,7 @@
+matplotlib==3.8.0
+numpy==1.26.0
+scikit-image==0.22.0
+Shapely==2.0.1
+tqdm==4.66.1
+torch==2.1.0+cu118
+torchsummary==1.5.1
